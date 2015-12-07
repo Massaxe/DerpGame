@@ -1,0 +1,1 @@
+D:\_MyStuff\MyDocuments\GitHub\DerpGame\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
